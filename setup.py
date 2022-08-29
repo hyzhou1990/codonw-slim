@@ -33,7 +33,7 @@ setup(
     license='GPLv2',
     author='Shyam Saladi',
     author_email='saladi@caltech.edu',
-    url='https://github.com/smsaladi/codonw-slim',
+    url='https://github.com/hyzhou1990/codonw-slim',
     long_description=long_description,
     long_description_content_type='text/markdown',
     packages=[
